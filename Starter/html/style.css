@@ -1,0 +1,98 @@
+body {
+    background-color: wheat;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.navbar,
+.navbar-expand-lg,
+.navbar-light,
+.bg-light {
+    max-height: 100px;
+    color: black;
+    background-color: wheat;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.navbar-brand {
+    color: white;
+    margin-left: 30px;
+    padding: inherit;
+    font-weight: bolder;
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dropdown-item:active,
+.dropdown-item:hover {
+    background-color: lightgreen;
+}
+
+.nav-link:hover {
+    background-color: lightgreen;
+}
+
+.active,
+.panel:hover {
+    border-color: lightgreen;
+    border-style: solid;
+}
+
+.title {
+    color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-top: 25px;
+}
+
+.box {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px 20px 15px;
+    color: lightgreen;
+    background-color: white;
+}
+
+.table,
+.table-responsive {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    border-top-color: white;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    margin-right: inherit;
+    margin-left: inherit;
+}
+
+.description-header {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    border-top-color: white;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    margin-right: inherit;
+    margin-left: inherit;
+    text-align: justify;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+}
