@@ -1,5 +1,5 @@
 body {
-    background-color: #FAF0E6; 
+    background-color: wheat;
 }
 
 img {
@@ -10,56 +10,62 @@ img {
 p {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px; 
+    font-size: 15px;
 }
-   
-.navbar, .navbar-expand-lg, .navbar-light, .bg-light {
-    max-height: 100px;  
+
+.navbar,
+.navbar-expand-lg,
+.navbar-light,
+.bg-light {
+    max-height: 100px;
     color: black;
-    background-color: #FAF0E6; 
-    font-size: 15px; 
-    font-weight: bolder; 
+    background-color: #b3caf5;
+    font-size: 20px;
+    font-weight: bolder;
 }
 
 .navbar-brand {
-    color: white; 
-    margin-left: 30px; 
-    padding: inherit; 
-    font-weight: bolder; 
-    background-color:lightgreen;
+    color: white;
+    margin-left: 30px;
+    padding: inherit;
+    font-weight: bolder;
+    background-color: #b3caf5;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.dropdown-item:active, .dropdown-item:hover {
-    background-color:lightgreen; 
+.dropdown-item:active,
+.dropdown-item:hover {
+    background-color: #b3caf5;
 }
 
 .nav-link:hover {
-    background-color:lightgreen;
-   }
+    background-color: #b3caf5;
+}
 
-.active, .panel:hover {
-    border-color:lightgreen;
-    border-style: solid; 
+.active,
+.panel:hover {
+    border-color: #b3caf5;
+    border-style: solid;
 }
 
 .title {
-    color:lightgreen;  
+    color: #b3caf5;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder; 
-    padding-top: 25px; 
+    font-weight: bolder;
+    padding-top: 25px;
 }
 
 .box {
-    margin-top: 50px; 
-    margin-bottom: 50px; 
-    padding: 10px 20px 15px; 
-    color:lightgreen;
-    background-color: white; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px 20px 15px;
+    color: #b3caf5;
+    background-color: white;
 }
 
-.table, .table-responsive {
-    font-size: 15px; 
+.table,
+.table-responsive {
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 50px;
     border-top-color: white;
@@ -70,7 +76,7 @@ p {
 }
 
 .description-header {
-    font-size: 50px; 
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 30px;
     border-top-color: white;
@@ -86,7 +92,7 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color:lightgreen;
+    background-color: #b3caf5;
     color: white;
     text-align: center;
-  }
+}

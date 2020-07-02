@@ -19,7 +19,7 @@ p {
 .bg-light {
     max-height: 100px;
     color: black;
-    background-color: wheat;
+    background-color: #b3caf5;
     font-size: 20px;
     font-weight: bolder;
 }
@@ -29,27 +29,27 @@ p {
     margin-left: 30px;
     padding: inherit;
     font-weight: bolder;
-    background-color: lightgreen;
+    background-color: #b3caf5;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .dropdown-item:active,
 .dropdown-item:hover {
-    background-color: lightgreen;
+    background-color: #b3caf5;
 }
 
 .nav-link:hover {
-    background-color: lightgreen;
+    background-color: #b3caf5;
 }
 
 .active,
 .panel:hover {
-    border-color: lightgreen;
+    border-color: #b3caf5;
     border-style: solid;
 }
 
 .title {
-    color: lightgreen;
+    color: #b3caf5;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
     padding-top: 25px;
@@ -59,7 +59,7 @@ p {
     margin-top: 50px;
     margin-bottom: 50px;
     padding: 10px 20px 15px;
-    color: lightgreen;
+    color: #b3caf5;
     background-color: white;
 }
 
@@ -92,7 +92,7 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: lightgreen;
+    background-color: #b3caf5;
     color: white;
     text-align: center;
 }
