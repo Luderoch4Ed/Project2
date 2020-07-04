@@ -1,5 +1,5 @@
 body {
-    background-color: wheat;
+    background-color: #222222;
 }
 
 img {
@@ -13,53 +13,67 @@ p {
     font-size: 15px;
 }
 
-.navbar,
-.navbar-expand-lg,
-.navbar-light,
-.bg-light {
+.navbar .navbar-expand-lg .fixed-top .navbar-light .bg-light {
     max-height: 100px;
     color: black;
-    background-color: #b3caf5;
     font-size: 20px;
     font-weight: bolder;
 }
 
 .navbar-brand {
-    color: white;
-    margin-left: 30px;
+    color: black;
+    font-size: 25px;
+    margin-left: auto;
     padding: inherit;
     font-weight: bolder;
-    background-color: #b3caf5;
+    background-color: #375A7F;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.dropdown-item {
+    color: white;
+    font-size: 15px;
+    margin-left: auto;
+    padding: inherit;
+    font-weight: bold;
 }
 
 .dropdown-item:active,
 .dropdown-item:hover {
-    background-color: #b3caf5;
+    background-color: #375A7F;
 }
 
 .nav-link:hover {
-    background-color: #b3caf5;
+    background-color: #375A7F;
 }
+
+#themes,
+.nav-link,
+.dropdown-toggle {
+    background-color: #375A7F;
+}
+
+
+
 
 .active,
 .panel:hover {
-    border-color: #b3caf5;
+    border-color: #375A7F;
     border-style: solid;
 }
 
 .title {
-    color: #b3caf5;
+    color: #375A7F;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
-    padding-top: 25px;
+    padding-top: 50px;
 }
 
 .box {
     margin-top: 50px;
     margin-bottom: 50px;
     padding: 10px 20px 15px;
-    color: #b3caf5;
+    color: #375A7F;
     background-color: white;
 }
 
@@ -92,7 +106,35 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #b3caf5;
+    background-color: #375A7F;
     color: white;
     text-align: center;
+}
+
+#themes {
+    color: black;
+    font-size: 25px;
+    margin-left: auto;
+    padding: inherit;
+    font-weight: bolder;
+    background-color: #375A7F;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar-responsive {
+    color: black;
+    font-size: 25px;
+    margin-left: auto;
+    padding: inherit;
+    font-weight: bolder;
+    background-color: #375A7F;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+    background-color: #375A7F;
+}
+
+#btnGroupDrop1 {
+    background-color: #375A7F;
 }
