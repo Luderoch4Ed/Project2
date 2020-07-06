@@ -1,90 +1,25 @@
 body {
-    background-color: wheat;
-}
-
-img {
-    width: 100%;
-    height: 100%;
-}
-
-p {
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-}
-
-.navbar,
-.navbar-expand-lg,
-.navbar-light,
-.bg-light {
-    max-height: 100px;
-    color: black;
-    background-color: wheat;
-    font-size: 20px;
-    font-weight: bolder;
+    color: auto
 }
 
 .navbar-brand {
-    color: white;
-    margin-left: 30px;
-    padding: inherit;
-    font-weight: bolder;
-    background-color: lightgreen;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
 }
 
-.dropdown-item:active,
-.dropdown-item:hover {
-    background-color: lightgreen;
+.nav-link {
+    font-size: large;
 }
 
-.nav-link:hover {
-    background-color: lightgreen;
+.dropdown-item {
+    font-size: large;
 }
 
-.active,
-.panel:hover {
-    border-color: lightgreen;
-    border-style: solid;
-}
-
-.title {
-    color: lightgreen;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder;
+.container {
     padding-top: 25px;
-}
-
-.box {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 10px 20px 15px;
-    color: lightgreen;
-    background-color: white;
-}
-
-.table,
-.table-responsive {
-    font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 50px;
-    border-top-color: white;
-    margin-top: inherit;
-    margin-bottom: inherit;
-    margin-right: inherit;
-    margin-left: inherit;
-}
-
-.description-header {
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-left: 30px;
-    border-top-color: white;
-    margin-top: inherit;
-    margin-bottom: inherit;
-    margin-right: inherit;
-    margin-left: inherit;
-    text-align: justify;
+    padding-bottom: 25px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: large;
 }
 
 .footer {
@@ -92,7 +27,48 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: lightgreen;
-    color: white;
+    background-color: #375A7F;
+    color: #fff;
     text-align: center;
 }
+
+.jumbotron {
+    position: relative;
+    text-align: justify;
+    font-size: larger;
+}
+
+#text {
+    font-size-adjust: inherit;
+}
+
+.navbar-brand {
+    font-size: x-large;
+}
+
+.h2 {
+    font-size: x-large;
+}
+
+.p {
+    font-size: larger;
+}
+
+.display {
+    font-size: xx-large;
+}
+
+.display-4 {
+    font-size: xx-large;
+}
+
+
+/* @media (min-width: 768px) {
+    body>.navbar-transparent {
+        box-shadow: none
+    }
+
+    body>.navbar-transparent .navbar-nav>.open>a {
+        box-shadow: none
+    }
+} */
