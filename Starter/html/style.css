@@ -62,7 +62,15 @@ body {
     font-size: xx-large;
 }
 
+.image-fluid {
+    width: 100%; 
+    position: inherit;
+}
 
+.card-body{
+    text-align: center;
+    font-size: large;
+}
 /* @media (min-width: 768px) {
     body>.navbar-transparent {
         box-shadow: none
