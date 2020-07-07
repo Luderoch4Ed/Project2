@@ -63,14 +63,16 @@ body {
 }
 
 .image-fluid {
-    width: 100%; 
+    width: 100%;
     position: inherit;
 }
 
-.card-body{
+.card-body {
     text-align: center;
     font-size: large;
+    position: relative;
 }
+
 /* @media (min-width: 768px) {
     body>.navbar-transparent {
         box-shadow: none
@@ -79,4 +81,4 @@ body {
     body>.navbar-transparent .navbar-nav>.open>a {
         box-shadow: none
     }
-} */ 
+} */
