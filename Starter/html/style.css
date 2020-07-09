@@ -64,7 +64,9 @@ body {
 
 .image-fluid {
     width: 100%;
-    position: inherit;
+    position: static;
+    padding-left: 240px;
+    padding-bottom: 50px;
 }
 
 .card-body {
