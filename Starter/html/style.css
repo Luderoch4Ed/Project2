@@ -1,0 +1,140 @@
+body {
+    color: auto
+}
+
+.navbar-brand {
+    font-size: x-large;
+}
+
+.nav-link {
+    font-size: large;
+}
+
+<<<<<<< HEAD
+.navbar,
+.navbar-expand-lg,
+.navbar-light,
+.bg-light {
+    max-height: 100px;
+    color: black;
+    background-color: #b3caf5;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.navbar-brand {
+    color: white;
+    margin-left: 30px;
+    padding: inherit;
+    font-weight: bolder;
+    background-color: #b3caf5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dropdown-item:active,
+.dropdown-item:hover {
+    background-color: #b3caf5;
+}
+
+.nav-link:hover {
+    background-color: #b3caf5;
+}
+
+.active,
+.panel:hover {
+    border-color: #b3caf5;
+    border-style: solid;
+}
+
+.title {
+    color: #b3caf5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-top: 25px;
+}
+
+.box {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px 20px 15px;
+    color: #b3caf5;
+    background-color: white;
+=======
+.dropdown-item {
+    font-size: large;
+}
+
+.container {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: large;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #375A7F;
+    color: #fff;
+    text-align: center;
+}
+
+.jumbotron {
+    position: relative;
+    text-align: justify;
+    font-size: larger;
+}
+
+#text {
+    font-size-adjust: inherit;
+}
+
+.navbar-brand {
+    font-size: x-large;
+}
+
+.h2 {
+    font-size: x-large;
+>>>>>>> f0c8aa000e4d83ef6cb7da89854785f8d7e6a4df
+}
+
+.p {
+    font-size: larger;
+}
+
+.display {
+    font-size: xx-large;
+}
+
+.display-4 {
+    font-size: xx-large;
+}
+
+.image-fluid {
+    width: 100%;
+<<<<<<< HEAD
+    background-color: #b3caf5;
+    color: white;
+=======
+    position: inherit;
+}
+
+.card-body {
+>>>>>>> f0c8aa000e4d83ef6cb7da89854785f8d7e6a4df
+    text-align: center;
+    font-size: large;
+    position: relative;
+}
+
+/* @media (min-width: 768px) {
+    body>.navbar-transparent {
+        box-shadow: none
+    }
+
+    body>.navbar-transparent .navbar-nav>.open>a {
+        box-shadow: none
+    }
+} */

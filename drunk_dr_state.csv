@@ -1,0 +1,150 @@
+fips_code,state,DRUNK_DR,drunk_count
+1,Alabama,0,670
+1,Alabama,1,200
+1,Alabama,2,6
+2,Alaska,0,39
+2,Alaska,1,28
+2,Alaska,2,2
+4,Arizona,0,732
+4,Arizona,1,175
+4,Arizona,2,9
+5,Arkansas,0,347
+5,Arkansas,1,123
+5,Arkansas,2,2
+6,California,0,2456
+6,California,1,775
+6,California,2,27
+6,California,3,1
+8,Colorado,0,396
+8,Colorado,1,185
+8,Colorado,2,7
+9,Connecticut,0,211
+9,Connecticut,1,65
+10,Delaware,0,77
+10,Delaware,1,26
+10,Delaware,2,1
+11,District of Columbia,0,25
+11,District of Columbia,1,5
+12,Florida,0,2322
+12,Florida,1,569
+12,Florida,2,23
+12,Florida,4,1
+13,Georgia,0,1136
+13,Georgia,1,266
+13,Georgia,2,5
+15,Hawaii,0,83
+15,Hawaii,1,25
+15,Hawaii,2,2
+16,Idaho,0,160
+16,Idaho,1,51
+16,Idaho,2,1
+17,Illinois,0,667
+17,Illinois,1,269
+17,Illinois,2,12
+18,Indiana,0,654
+18,Indiana,1,117
+18,Indiana,2,3
+19,Iowa,0,224
+19,Iowa,1,66
+19,Iowa,2,1
+20,Kansas,0,305
+20,Kansas,1,60
+20,Kansas,2,1
+21,Kentucky,0,513
+21,Kentucky,1,147
+21,Kentucky,2,4
+22,Louisiana,0,507
+22,Louisiana,1,205
+22,Louisiana,2,4
+23,Maine,0,87
+23,Maine,1,40
+23,Maine,2,1
+24,Maryland,0,356
+24,Maryland,1,114
+24,Maryland,2,4
+25,Massachusetts,0,234
+25,Massachusetts,1,105
+25,Massachusetts,2,4
+26,Michigan,0,639
+26,Michigan,1,255
+26,Michigan,2,11
+27,Minnesota,0,239
+27,Minnesota,1,105
+27,Minnesota,2,5
+28,Mississippi,0,495
+28,Mississippi,1,97
+28,Mississippi,2,5
+29,Missouri,0,636
+29,Missouri,1,204
+29,Missouri,2,8
+30,Montana,0,87
+30,Montana,1,81
+31,Nebraska,0,140
+31,Nebraska,1,57
+31,Nebraska,2,4
+32,Nevada,0,225
+32,Nevada,1,72
+32,Nevada,2,3
+33,New Hampshire,0,93
+33,New Hampshire,1,41
+34,New Jersey,0,416
+34,New Jersey,1,107
+34,New Jersey,2,2
+35,New Mexico,0,251
+35,New Mexico,1,98
+35,New Mexico,2,1
+36,New York,0,690
+36,New York,1,192
+36,New York,2,7
+37,North Carolina,0,969
+37,North Carolina,1,342
+37,North Carolina,2,10
+38,North Dakota,0,63
+38,North Dakota,1,32
+39,Ohio,0,700
+39,Ohio,1,289
+39,Ohio,2,7
+40,Oklahoma,0,456
+40,Oklahoma,1,145
+40,Oklahoma,2,2
+41,Oregon,0,335
+41,Oregon,1,114
+41,Oregon,2,1
+42,Pennsylvania,0,836
+42,Pennsylvania,1,259
+42,Pennsylvania,2,8
+44,Rhode Island,0,36
+44,Rhode Island,1,19
+44,Rhode Island,2,1
+45,South Carolina,0,704
+45,South Carolina,1,262
+45,South Carolina,2,4
+46,South Dakota,0,71
+46,South Dakota,1,38
+46,South Dakota,2,1
+47,Tennessee,0,775
+47,Tennessee,1,192
+47,Tennessee,2,7
+48,Texas,0,2487
+48,Texas,1,794
+48,Texas,2,24
+49,Utah,0,179
+49,Utah,1,57
+49,Utah,2,1
+50,Vermont,0,41
+50,Vermont,1,19
+51,Virginia,0,547
+51,Virginia,1,223
+51,Virginia,2,8
+53,Washington,0,355
+53,Washington,1,134
+53,Washington,2,8
+54,West Virginia,0,208
+54,West Virginia,1,56
+54,West Virginia,2,1
+55,Wisconsin,0,332
+55,Wisconsin,1,188
+55,Wisconsin,2,10
+56,Wyoming,0,69
+56,Wyoming,1,29
+56,Wyoming,2,2

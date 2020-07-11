@@ -1,0 +1,52 @@
+,fips_code,post_code,state,total_count,DRUNK_DR
+0,1,AL,Alabama,876,200
+1,2,AK,Alaska,69,28
+2,4,AZ,Arizona,916,175
+3,5,AR,Arkansas,472,123
+4,6,CA,California,3259,775
+5,8,CO,Colorado,588,185
+6,9,CT,Connecticut,276,65
+7,10,DE,Delaware,104,26
+8,11,DC,District of Columbia,30,5
+9,12,FL,Florida,2915,569
+10,13,GA,Georgia,1407,266
+11,15,HI,Hawaii,110,25
+12,16,ID,Idaho,212,51
+13,17,IL,Illinois,948,269
+14,18,IN,Indiana,774,117
+15,19,IA,Iowa,291,66
+16,20,KS,Kansas,366,60
+17,21,KY,Kentucky,664,147
+18,22,LA,Louisiana,716,205
+19,23,ME,Maine,128,40
+20,24,MD,Maryland,474,114
+21,25,MA,Massachusetts,343,105
+22,26,MI,Michigan,905,255
+23,27,MN,Minnesota,349,105
+24,28,MS,Mississippi,597,97
+25,29,MO,Missouri,848,204
+26,30,MT,Montana,168,81
+27,31,NE,Nebraska,201,57
+28,32,NV,Nevada,300,72
+29,33,NH,New Hampshire,134,41
+30,34,NJ,New Jersey,525,107
+31,35,NM,New Mexico,350,98
+32,36,NY,New York,889,192
+33,37,NC,North Carolina,1321,342
+34,38,ND,North Dakota,95,32
+35,39,OH,Ohio,996,289
+36,40,OK,Oklahoma,603,145
+37,41,OR,Oregon,450,114
+38,42,PA,Pennsylvania,1103,259
+39,44,RI,Rhode Island,56,19
+40,45,SC,South Carolina,970,262
+41,46,SD,South Dakota,110,38
+42,47,TN,Tennessee,974,192
+43,48,TX,Texas,3305,794
+44,49,UT,Utah,237,57
+45,50,VT,Vermont,60,19
+46,51,VA,Virginia,778,223
+47,53,WA,Washington,497,134
+48,54,WV,West Virginia,265,56
+49,55,WI,Wisconsin,530,188
+50,56,WY,Wyoming,100,29

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/darkly/bootstrap.min.css"
+        integrity="sha384-Bo21yfmmZuXwcN/9vKrA5jPUMhr7znVBBeLxT9MA4r2BchhusfJ6+n8TLGUcRAtL" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--CSS Link-->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="static/css/summary.css">
+</head>
+
+<body>
+    <!--Nav Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand" href="index.html">US ACCIDENTS</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse show" id="navbarResponsive" style>
+            <ul class="navbar-nav">
+
+                <!-- <li class="nav-item">
+                    <a class="nav-link" href="NHTSA.html">NHTSA</a>
+                </li> -->
+                <!-- <li class="nav-item">
+                    <a class="nav-link" href="data.html">Data</a>
+                </li> -->
+                <!-- <li class="nav-item">
+                    <a class="nav-link" href="heatmap.html">Heat Map</a>
+                </li> -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="index.html">Analysis<span
+                            class="caret"></span></a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="weather.html">Weather</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="drunk.html">Drunk Driving</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="detail.html">Detail</a>
+                        <!-- <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="resources.html">Resources</a> -->
+                        <!-- <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="summary.html">Summary</a> -->
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="summary.html">Summary</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!--Start of containers-->
+
+    <div class="box">
+        <div class="container">
+            <h1 class="display-4">Countrywide Accident Summary</h1>
+            <br>
+            <h2>
+                <u class ="summary"> Executive Summary</u>
+            </h2>
+            <p class = "s-text"> Our accident analysis to date has included a partial picture of behaviorial and conditional 
+                factors. We have been able to generally rule out inclement weather as a significant factor and
+                 that holds true as we look into the data more deeply year over year. We have observed that larger
+                  city centers where warm weather is more prevalent, typically result in a higher rate of incidents
+                   or 'hot spots'. However, there are many more underlying factors to explore further and interestingly 
+                   enough, even the National Highway Traffic Safety Administration does not seem to have all of the answers. For example, 
+                   when it comes to reporting on accidents where fatalities were involved, approximately 30% of all reported incidents (2018) 
+                   were cited as 'unknown'. 
+                </p>
+                <hr>
+            <h3>
+                <u class = "summary"> Administrative Summary</u>
+            </h3>
+            <p class = "s-text"> The National Highway Traffic Safety Administration has developed a list of 
+                driver behaviors that are factors in crashes. Speeding is at the top of the list of 
+                 factors for drivers involved in crashes overall. As an example, in 2018, 8,596 drivers who
+                  were involved in fatal crashes (or almost 17 percent) were speeding. Ranking second was the 
+                  influence of alcohol, drugs or medication. Coming in third and fourth were failure to stay in
+                   the proper lane, and failure to yield the right of way.
+            </p>
+                <hr>
+            <h4>
+                <u class= "summary">To be Improved</u>
+            </h4>
+            <p class = "s-text"> This topic could be expanded to include metrics in the following areas: 
+            </p>
+                <hr class = "t-text">
+                <li>-Speeding</li>
+                <li>-Distracted Driving</li>
+                <li>-Operating vehicle in a careless or wreckless manner</li>
+                <li>Failure to obey traffic signs, signals, or officer</li> 
+                <li>-Overcorrecting/ oversteering</li>
+                <li>-Obscured vision (rain, snow, glare, lights, building, trees, etc.)</li>
+                <li>-Driving the wrong way on one-way traffic or wrong side of road</li>
+                <li>-Drowsy, asleep, fatigued, ill, or blacked out</li>
+                <li>-Swerving or avoiding due to wind, slippery surface, etc.</li>
+                <li>-Making improper turns</li>
+
+                
+            </p>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <footer class="footer">
+        <span class="text">Copyright Northwestern Data Science - Group Project 2 - July 2020</span>
+        </div>
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous">
+    </script>
+</body>
+
+</html> 

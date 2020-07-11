@@ -1,0 +1,16 @@
+body {
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  #map,
+  body
+  html {
+  position: static;
+  width: 980px;
+  height: 600px;
+
+  /* padding: 0px;
+    margin: o; */
+  /* border: 3px solid #73AD21; */
+  }
